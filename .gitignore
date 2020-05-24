@@ -1,0 +1,11 @@
+public
+.cache
+node_modules
+*DS_Store
+*.env
+*.log
+.netlify
+.npm
+
+# Ignore any generated TypeScript -> JavaScript files
+.github/actions/**/*.js
